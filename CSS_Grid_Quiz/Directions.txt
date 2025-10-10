@@ -1,0 +1,9 @@
+The Goal
+Students must use CSS Grid to arrange five main structural elements of a website (header, nav, sidebar, main, and footer) into a professional layout that matches a provided target image.
+
+The Target Layout
+The final design will use CSS Grid to manage the entire page flow.
+
+Rules:
+1. You may NOT edit the HTML.
+2. ALL CSS must go into the stylesheet attached.
