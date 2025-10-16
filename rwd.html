@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <title>Responsive Web Design</title>
     <style>
+        body{
+            background-color: lightgreen;
+        }
         * {
             box-sizing: border-box;
             margin: 0;
@@ -111,6 +114,11 @@
                 .item3{ grid-area: 2/ span 4; }
                 .item4{ grid-area: 2/ span 1; }
                 .item5{ grid-area: 3/ span 6; }
+            }
+        }
+        @media only screen and (orientation: landscape){
+            body{
+                background-color: lightblue;
             }
         }
 
